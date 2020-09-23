@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**jennifersmithuk/jennifersmithuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I’m currently working:
 
-Here are some ideas to get you started:
+- On a platform for [Signalise Co-op](https://signalise.coop), a co-operative of interpreters and Deaf people, co-creating a platform to enable organisations to book sign language interpreters. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I also work on small to medium business websites. My portfolio is seriously out of date and I'm sure one day I will find time to update it.
+
+🌱 I’m currently honing my JavaScript and React.js skills  
+
+💬 Ask me about platform co-ops
+
+:nerd_face: I'm interested in #techforgood, #womenintech  
+
+:e-mail: How to reach me: [jen@signalise.coop](mailto:jen@signalise.coop) or for business sites [hello@jensmith.info](mailto:hello@jensmith.info)  
+
+Pronouns: she/her/hers  
