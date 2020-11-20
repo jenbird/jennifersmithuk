@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-:computer: I’m currently working:
+:computer: I’m currently working on:
 
-- On a platform for [Signalise Co-op](https://signalise.coop), a co-operative of interpreters and Deaf people, co-creating a platform to enable organisations to book sign language interpreters. 
+- A platform for [Signalise Co-op](https://signalise.coop), a co-operative of interpreters and Deaf people, co-creating a platform to enable organisations to book sign language interpreters. 
 
-- I also work on small to medium business websites. My portfolio is seriously out of date and I'm sure one day I will find time to update it.
+- I also work on small to medium business websites. My portfolio is seriously out of date and I'm sure one day I'll find time to update it :grinning:
 
 🌱 I’m currently honing my JavaScript and React.js skills  
 
